@@ -1,14 +1,14 @@
-#TAXI-OUT PREDICTION FOR BETTER OPTIMIZING FLIGHT COSTS
+# TAXI-OUT PREDICTION FOR BETTER OPTIMIZING FLIGHT COSTS
 Aircraft traffic operations are the major source of fuel burn and emission on the ground. Given rising fuel prices and growing concerns about the contribution of aviation to air pollution and green gas emission, this project develops a strategy to reduce fuel burn and taxi out delays at the airport.
 
-##Business Goal
+## Business Goal
 To test several models to predict taxi out of JFK airport and use the predicted results to help cut the consumption of fuel and reduce the taxi out delay.
 
-##COMPLICATION
+## COMPLICATION
 Understanding taxi operations and factors that affect taxi-out time.
 
-##Dataset 
-##Description of the columns
+## DATASET 
+### Description of the columns
 There are 28820 observations of 23 variables.
 Each observation is an individual flight.
 - `MONTH`, `DAY_OF_MONTH`, `DAY_OF_WEEK` contain information about the date of the flight
